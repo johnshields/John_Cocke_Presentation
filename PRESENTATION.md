@@ -21,14 +21,33 @@ including the reduction of:
 * Dead Code Elimination
 ***
 ### RISC Architecture
+Reduced Set Instruction Set Architecture 
+The main idea behind this architecture was to make simpler hardware by using a reduced instruction set composed by a few basic step for loading evaluating and storing operations. Although this is a reduced instruction set this approach tries to increase the CPU performance.
+
+* Reduce the cycles per instruction at the cost of the number of instructions per program.
+### Characteristic of RISC
+* Simpler instruction 
+* Simple instruction decoding.
+* Instruction come under size of one word.
+* Instruction take single clock cycle to get executed.
+* More number of general purpose register.
+* Simple Addressing Modes.
+* Less Data types.
+* Pipeline can be achieved.
+
+***
+### RISC Projects
 John Cocke was involved in three RISC projects:
 * IBM 801 machine (1974)
 * Berkeley’s RISC-I and RISC-II processors (1980)
 * Stanford’s MIPS processor (1981)
 ***
 ### IBM 801 machine
-IBM designed an experimental minicomputer named the 801. IBM used the resulting architecture in various roles out through to the 1980s.
-
+* IBM designed an experimental minicomputer named the 801. - *The name 801 comes from the building the project was housed in.*
+* IBM used the resulting architecture in various roles out through to the 1980s.
+* In the early-mid 1970s, IBM were interested in the possibility of constructing a telephone switch to handle a million cal per hour. 
+* Their estimation was that this would require at least a 6 MIPS processor. 
+* John Cocke and his group who were working on the project at the Thomas J. Watson Research Center.
 
 
 ##### END OF PART 1
@@ -54,5 +73,9 @@ IBM designed an experimental minicomputer named the 801. IBM used the resulting 
 
 [5] [Computer Pioneers](https://history.computer.org/pioneers/cocke.html)
 
-[6] [IBM 801](https://en.linkfang.org/wiki/IBM_801) *
+[6] [Computer Organization | RISC and CISC](https://www.geeksforgeeks.org/computer-organization-risc-and-cisc/#:~:text=RISC%3A%20Reduce%20the%20cycles%20per,number%20of%20cycles%20per%20instruction.) *
+
+[7] [IBM 801](https://en.linkfang.org/wiki/IBM_801) *
+
+
 ***
