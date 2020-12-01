@@ -21,15 +21,18 @@ including the reduction of:
 * Dead Code Elimination
 ***
 ### RISC Architecture
-Reduced Set Instruction Set Architecture 
-The main idea behind this architecture was to make simpler hardware by using a reduced instruction set composed by a few basic step for loading evaluating and storing operations. Although this is a reduced instruction set this approach tries to increase the CPU performance.
+* Reduced Instruction Set Computers.
+
+* The main idea behind this architecture was to make simpler hardware by using a reduced instruction set composed by a few basic step for loading evaluating and storing operations. 
+
+* Although this is a reduced instruction set this approach tries to increase the CPU performance.
 
 * Reduce the cycles per instruction at the cost of the number of instructions per program.
+
 ### Characteristic of RISC
 * Simpler instruction 
-* Simple instruction decoding.
-* Instruction come under size of one word.
-* Instruction take single clock cycle to get executed.
+* One word instructions.
+* Instruction take a single clock cycle to get executed.
 * More number of general purpose register.
 * Simple Addressing Modes.
 * Less Data types.
