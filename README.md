@@ -1,5 +1,8 @@
 # RM_Presentation
 A presentation on the work of John Cocke ...
+
+#### John - RISC Architecture
+#### Matt - Compiler Optimization
 ***
 ## Research
 #### John Cocke the turning award winner of 1987...
@@ -23,9 +26,9 @@ All agree that Cocke was a great inspiration to those who knew him or his work. 
 #### References 
 [1] [A.M. Turing](https://amturing.acm.org/award_winners/cocke_2083115.cfm)
 
-[2] [John Cocke | Lemelson](https://lemelson.mit.edu/resources/john-cocke) - very good info 
+[2] [John Cocke | Lemelson](https://lemelson.mit.edu/resources/john-cocke) *
 
-[3] [RISC Architecture](https://www.ibm.com/ibm/history/ibm100/us/en/icons/risc/) - very good info 
+[3] [RISC Architecture](https://www.ibm.com/ibm/history/ibm100/us/en/icons/risc/) *
 
 [4] [Britannica Article by William L. Hosch](https://www.britannica.com/biography/John-Cocke)
 
