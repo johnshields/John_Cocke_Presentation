@@ -30,13 +30,27 @@ including the reduction of:
 * Reduce the cycles per instruction at the cost of the number of instructions per program.
 
 ### Characteristic of RISC
-* Simpler instruction 
+* Relatively few instructions 
 * One word instructions.
 * Instruction take a single clock cycle to get executed.
 * More number of general purpose register.
 * Simple Addressing Modes.
 * Less Data types.
 * Pipeline can be achieved.
+
+#### Pipelining
+* Pipelining, a standard feature in RISC processors, is much like an assembly line. 
+Because the processor works on different steps of the instruction at the same time,
+more instructions can be executed in a shorter period of time.
+
+* Pipelining is a technique of decomposing a sequentail 
+process into sub-processes, with each sub-process 
+being executed in a special dedicated segment that 
+operates concurrently withh all other segments 
+
+* Any operation that cn be cecomposed into a 
+sequence of a sub-operation of about the same 
+compleity can be implemented by a pipeline processor
 
 ***
 ### RISC Projects
@@ -115,7 +129,8 @@ John Cocke was involved in three RISC projects:
 
 [8] [RISC I & RISC II](https://en.wikipedia.org/wiki/Berkeley_RISC) *
 
-[9] [MIPS](https://cs.stanford.edu/people/eroberts/courses/soco/projects/risc/mips/index.html)
+[9] [MIPS](https://cs.stanford.edu/people/eroberts/courses/soco/projects/risc/mips/index.html) *
 
+10 [RISC Pipeline](https://cs.stanford.edu/people/eroberts/courses/soco/projects/risc/pipelining/index.html) *
 
 ***
