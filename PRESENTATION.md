@@ -85,7 +85,7 @@ John Cocke was involved in three RISC projects:
   - *While the RISC I design ran into delays, work at Berkeley had already turned to the new Blue design.*
   - *Work on Blue progressed slower than Gold, due both to the lack of a pressing need now that Gold was going to fab, as well as changeovers in the classes and students staffing the effort. This pace also allowed them to add in several new features that would end up improving the design considerably.*
   
-* 138 registers broken into 
+* 138 registers - *broken into*
 * 8 windows - *of*
 * 16 registers each - *with another*
 * 10 globals
