@@ -46,12 +46,45 @@ John Cocke was involved in three RISC projects:
 * Stanford’s MIPS processor (1981)
 ***
 ### IBM 801 machine
-* IBM designed an experimental minicomputer named the 801. - *The name 801 comes from the building the project was housed in.*
+* IBM designed an experimental minicomputer named the 801. 
+  - *The name 801 comes from the building the project was housed in.*
 * IBM used the resulting architecture in various roles out through to the 1980s.
 * In the early-mid 1970s, IBM were interested in the possibility of constructing a telephone switch to handle a million cal per hour. 
 * Their estimation was that this would require at least a 6 MIPS processor. 
 * John Cocke and his group who were working on the project at the Thomas J. Watson Research Center.
 
+### Berkeley’s RISC-I and RISC-II processors
+#### RISC I 
+* Originally known as Gold 
+  - *The first attempt to implement the RISC concept was originally known as Gold*
+* VLSI design course 
+  - *Work on the design started in 1980 as part of a VLSI design course, but the then-complicated design crashed almost all existing design tools. The team had to spend considerable amounts of time improving or re-writing the tools, and even with these new tools it took just under an hour to extract the design on a VAX-11/780.*
+ *  ACM ISCA
+    - 44,500 transistors
+    - 31 instructions
+    - 78 32-bit registers
+    - *The final design, known as RISC I, was published in ACM ISCA in 1981.*
+    - *It had 44,500 transistors implementing 31 instructions and a register file containing 78 32-bit registers*
+    
+#### RISC II
+* Blue design
+  - *While the RISC I design ran into delays, work at Berkeley had already turned to the new Blue design.*
+  - *Work on Blue progressed slower than Gold, due both to the lack of a pressing need now that Gold was going to fab, as well as changeovers in the classes and students staffing the effort. This pace also allowed them to add in several new features that would end up improving the design considerably.*
+  
+* 138 registers broken into 
+* 8 windows - *of*
+* 16 registers each - *with another*
+* 10 globals
+
+* RISC instruction set with only 39,000 transistors
+
+### Stanford’s MIPS processor 
+* Strong background in compilers
+* Develop a processor 
+  - *whose architecture would represent the lowering of the compiler to the hardware level, as opposed to the raising of hardware to the software level, which had been a long running design philosophy in the hardware industry.*
+ * MIPS processor implemented a smaller, simpler instruction set
+ * 32 registers - *each*
+ * 32 bits wide 
 
 ##### END OF PART 1
 ***
@@ -79,6 +112,10 @@ John Cocke was involved in three RISC projects:
 [6] [Computer Organization | RISC and CISC](https://www.geeksforgeeks.org/computer-organization-risc-and-cisc/#:~:text=RISC%3A%20Reduce%20the%20cycles%20per,number%20of%20cycles%20per%20instruction.) *
 
 [7] [IBM 801](https://en.linkfang.org/wiki/IBM_801) *
+
+[8] [RISC I & RISC II](https://en.wikipedia.org/wiki/Berkeley_RISC) *
+
+[9] [MIPS](https://cs.stanford.edu/people/eroberts/courses/soco/projects/risc/mips/index.html)
 
 
 ***
