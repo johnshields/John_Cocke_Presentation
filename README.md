@@ -1,5 +1,4 @@
-# RM_Presentation
-A presentation on the work of John Cocke ...
+### A presentation on the work of John Cocke ...
 
 #### John - RISC Architecture
 #### Matt - Compiler Optimization
